@@ -23,9 +23,11 @@ GirlScript Asansol's mission is to create opportunity, learning, growth and dive
   &nbsp
   <a href="https://www.linkedin.com/company/gsasansol/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   &nbsp
-  <a href="https://www.instagram.com/gsasansol/"><img src="https://img.shields.io/badge/-Instagram-c8c8c8?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://discord.io/gsasansol"><img src="https://img.shields.io/badge/-Discord-c8c8c8?style=for-the-badge&logo=discord" /></a>
   &nbsp
   <a href="https://twitter.com/GSAsansol"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  &nbsp
+  <a href="https://www.instagram.com/gsasansol/"><img src="https://img.shields.io/badge/-Instagram-c8c8c8?style=for-the-badge&logo=instagram" /></a>
 </p>
   
 ## License
